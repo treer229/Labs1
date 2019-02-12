@@ -22,6 +22,8 @@ public class Ex10_Static_Method_call {
 		System.out.println();
 		System.out.println();
 		System.out.println();
+		System.out.println();
+		System.out.println();
 	}
 	
 }
