@@ -20,6 +20,8 @@ public class Ex10_Static_Method_call {
 		x = 9999;
 		System.out.println("after x:" + x);
 		System.out.println();
+		System.out.println();
+		System.out.println();
 	}
 	
 }
