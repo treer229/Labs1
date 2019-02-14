@@ -20,6 +20,8 @@ public class Car {
 	private int window;
 	private int speed;
 
+	public Car2 s = new Car2();
+	
 	public void setWindow(int window) {
 		this.window = window;
 	}

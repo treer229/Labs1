@@ -16,6 +16,7 @@ package kr.or.bit;
 
 
 public class Card {
+	
 	public int num;
 	public String kind;
 	
