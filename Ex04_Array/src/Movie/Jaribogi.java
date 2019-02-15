@@ -6,7 +6,7 @@ public class Jaribogi { // 6x6 ¹è¿­¿¡
 	private Jaribogi() {
 		mv = new String[6][6];
 	}
-
+	
 	public String[][] jari() {
 		for (int i = 0; i < mv.length; i++) {
 			for (int j = 0; j < mv[i].length; j++) {
